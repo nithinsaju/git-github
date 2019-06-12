@@ -1,7 +1,6 @@
 print("my local git-repository")
 print("2second BRANCH")
 if hungry=="y":
-    print("eat samosa")
+    print("2second eat samosa")
 else:
-    print("skip dining")
-
+    print("2second skip dining")
